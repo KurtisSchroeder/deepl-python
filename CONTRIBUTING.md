@@ -1,6 +1,6 @@
-# Contributing guidelines
+##Contributing guidelines
 
-* [Code of Conduct](#code-of-conduct)
+# [Code of Conduct](#code-of-conduct)
 * [Issues](#issues)
 * [Pull Requests](#pull-requests)
 
@@ -35,3 +35,4 @@ Currently automated testing is implemented internally at DeepL, however we plan
 to implement publicly visible testing soon.
 
 [issues]: https://www.github.com/DeepLcom/deepl-python/issues
+ 
